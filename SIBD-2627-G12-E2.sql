@@ -5,15 +5,7 @@ Projeto: Etapa 2
 Grupo: 12
 
 Alunos:
- - Ruan Pimentel (Nº 66502) - Turma 3 - 33.3%
- - Leonor Esteves (Nº 65588) - Turma 1 - 33.3%
- - Qifan Wang (Nº 66056) - Turma 5 - 33.4%
-
-Sumário das contribuições:
-Face à saída do curso de um dos elementos do grupo, o trabalho foi redistribuído de forma equitativa pelos 3 membros restantes.
-- Leonor: Modelação lógica e código SQL da tabela Pedido_Assistencia.
-- Qifan: Código SQL das tabelas Veiculo, Veiculo_de_Socio, Veiculo_de_Assistencia, Socio e Possui, e inserção de dados.
-- Ruan: Criação das tabelas Morada, Base, Pessoa, Mecanico e Turno. Integração do script final, resolução de dependências, formatação DDL estrita e redação das RIAs não suportadas.
+ - Ruan Pimentel (Nº 66502) - Turma 3
 */
 
 DROP TABLE Pedido_Assistencia CASCADE CONSTRAINTS;
